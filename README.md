@@ -7,7 +7,7 @@
     <li>All interactions with Excel documents are provided through user-friendly GUI.</li>
     <li>Handles user-generated exceptions gracefully with informative message boxes.</li>
     <li>The filtered output is saved as a professionally formatted Excel document.</li>
-    <li>Program is easy to use.</li>
+    <li>The program is designed to be easy to use and offers simple maintenance.</li>
 </ul>
 <br>
 :eight_spoked_asterisk:<b>Tech Stack</b>:eight_spoked_asterisk:<br>
