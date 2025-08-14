@@ -14,3 +14,34 @@
 Python, Tkinter, Openpyxl, Datetime lib.
 <br>
 <hr>
+<b>Project deployment on Windows</b>
+
+```bash
+git clone https://github.com/735Andrew/ExcelFile-Filter
+cd ExcelFile-Filter
+python -m venv venv 
+venv\Scripts\activate
+(venv) pip install -r requirements.txt
+    
+(venv) python gui.py                      # Opens the GUI             
+     
+```
+<hr>
+<b>Project deployment on Linux</b>
+<h6>Prerequisites:</h6>
+
+```bash
+sudo apt-get -y install python3-tk
+```
+<br>
+
+```bash
+git clone https://github.com/735Andrew/ExcelFile-Filter
+cd ExcelFile-Filter
+python3 -m venv venv 
+source venv/bin/activate 
+(venv) pip install -r requirements.txt
+   		
+(venv) python3 gui.py                     # Opens the GUI               
+    
+```
